@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<?${1:=} ${2:$SELECTION} ?>$0
+<%${1:=} ${2:$SELECTION} %>$0
 ]]></content>
 	<description>&lt;?(=) &#x27;insert ejs tags&#x27; ?&gt;</description>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
